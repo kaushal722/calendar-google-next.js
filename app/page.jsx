@@ -15,10 +15,10 @@ export default function Home() {
         zIndex: "1"
       }}
     >
-      
-
-      <h1>You Are Invited! Cheers</h1>
-
+      <h1>You Are Invited!</h1>
+<br />
+<h2>Click the button bellow for details</h2>
+<br />
       <div>
         <a
           target="_blank"
@@ -30,6 +30,10 @@ export default function Home() {
           ></img>
         </a>
       </div>
+      <h3><br />
+      <br />
+      Spoiler: There will be coffee!
+      </h3>
     </main>
   );
 }
