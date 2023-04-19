@@ -17,7 +17,7 @@ export default function Home() {
     >
       
 
-      <h1>You Are Invited!</h1>
+      <h1>You Are Invited! Cheers</h1>
 
       <div>
         <a
