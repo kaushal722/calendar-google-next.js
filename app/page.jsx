@@ -17,7 +17,7 @@ export default function Home() {
     >
       <h1>You Are Invited!</h1>
 <br />
-<h2 style={{textAlign: "Center"}}>Click the button bellow for details</h2>
+<h2 className={"center"}>Click the button bellow for details</h2>
 <br />
       <div>
         <a
