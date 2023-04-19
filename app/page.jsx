@@ -13,6 +13,7 @@ export default function Home() {
         width: "100%",
         flexDirection: "column",
         zIndex: "1",
+        padding: "2rem"
       }}
     >
       <h1>You Are Invited!</h1>
