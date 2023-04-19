@@ -18,7 +18,7 @@ export default function Home() {
     >
       <h1>You Are Invited!</h1>
       <br />
-      <h3 className={"center"}>20th Apr, 6:00pm onwards @Dude's Place</h3>
+      <h3 className={"center"}>20th Apr, 6:00pm onwards <a style={{color: "#ded05a", fontWeight: "700"}} href="https://goo.gl/maps/6mWsJo7E2aZqBBRUA">@Dude's Place</a> </h3>
       <br />
       <br />
       <br />
