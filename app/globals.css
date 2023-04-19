@@ -133,3 +133,19 @@ a {
   z-index: 1;
 }
 
+body{
+  background-image: url("../public/starship.jpeg");
+  background-position: top;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  text-align: center;
+}
+
+.inviteBtn{
+  font-size: 32px;
+  padding: 6px 18px;
+  border-radius: 40px;
+  border: none;
+  background-color: darkslategray;
+  cursor: pointer;
+}

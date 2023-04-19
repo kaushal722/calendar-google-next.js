@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${inter.className}`}>
       <div className="overlay"></div>
-      <div className="video-background">
+      {/* <div className="video-background">
         <iframe
         // height="1904"
         // width="712"
@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
           // allowfullscreen
         ></iframe>
-      </div>
+      </div> */}
         {children}</body>
     </html>
   )
