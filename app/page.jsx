@@ -12,8 +12,11 @@ export default function Home() {
         position: "absolute",
         width: "100%",
         flexDirection: "column",
+        zIndex: "1"
       }}
     >
+      
+
       <h1>You Are Invited!</h1>
 
       <div>
