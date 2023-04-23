@@ -22,7 +22,7 @@ export default function Home() {
         20th Apr, 6:00pm onwards{" "}
         <a
           style={{ color: "#ded05a", fontWeight: "700" }}
-          href="https://goo.gl/maps/6mWsJo7E2aZqBBRUA"
+          //here goes the maps link.
         >
           @Dude's Place
         </a>{" "}
